@@ -86,9 +86,3 @@ CSV Upload → Parser → Validator → Normalizer → ActivityRecord
                                                   ↓
                                             AuditEvent (lock)
 ```
-
-## Submission checklist
-
-- [ ] GitHub repo shared with saurav@, rahul@, shivang@breatheesg.com
-- [ ] Deployed URL (Render)
-- [ ] Credentials in submission email
