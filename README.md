@@ -8,8 +8,7 @@ backend deployed URL: [https://breathe-esg-assignment-final.onrender.com](https:
 frontend deployed URL: [https://breathe-esg-assignment-vryk.vercel.app/login](https://breathe-esg-assignment-vryk.vercel.app/)
 
 **Demo credentials (after `seed_demo`):**
-- Analyst: `analyst@demo.client.com` / `demo1234`
-- Admin: `admin@demo.client.com` / `admin1234`
+- Analyst: `analyst@demo.client.com` / `demo1234``
 
 ## Local development
 
